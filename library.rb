@@ -15,7 +15,8 @@
   moby_dick: true,
   flatland: true,
   twilight: true,
-  hunger_games: true
+  hunger_games: true,
+  how_to_win_friend_and_influence_people: true
 }
 
 def separator
